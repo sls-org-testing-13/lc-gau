@@ -1,0 +1,5 @@
+# Synthetic scanner fixtures
+integrations:
+  huggingface_token: hf_onwhgllpojts25dfon2gs3thfuytgl3mmm
+  bearer_token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.onwhgllpojts25dfon2gs3thfuytgl3mmmwwoylv012.pojts25dfon2gs3thfuytgl3mmmwwoylv0123456789
+  refresh_token: 1//onwhgllpojts25dfon2gs3thfuytgl3mmmwwoylv012
